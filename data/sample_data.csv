@@ -1,0 +1,1001 @@
+product_id,product_name,category,unit_price,quantity_sold,demand_forecast,supplier_id,lead_time_days,reorder_point,reorder_quantity
+1,Phyllo Dough,home goods,730.93,290,474,1,14,423,93
+2,Breadfruit,home goods,816.75,371,852,2,4,169,84
+3,Dried Cranberries,clothing,893.05,131,951,3,2,569,60
+4,"Wine - Mas Chicet Rose, Vintage",electronics,366.32,347,574,4,17,622,1
+5,Soup - Campbells Bean Medley,home goods,277.99,979,592,5,17,216,65
+6,Sobe - Green Tea,clothing,189.98,10,431,6,26,395,75
+7,Bread - English Muffin,electronics,423.59,641,799,7,1,597,77
+8,Ecolab - Solid Fusion,home goods,674.96,796,742,8,6,831,78
+9,Appetizer - Asian Shrimp Roll,electronics,30.69,776,772,9,24,858,23
+10,Yeast Dry - Fermipan,electronics,883.09,594,36,10,9,222,21
+11,Lettuce - Spring Mix,home goods,494.29,421,748,11,2,60,18
+12,Dikon,electronics,650.4,768,555,12,23,661,26
+13,Muffin - Banana Nut Individual,electronics,864.55,290,596,13,23,475,97
+14,"Wine - White, Schroder And Schyl",electronics,154.38,413,408,14,20,976,34
+15,Soup - Base Broth Chix,clothing,265.14,901,88,15,21,699,43
+16,Sole - Fillet,electronics,802.54,162,477,16,17,341,69
+17,Bread - Multigrain,clothing,945.1,463,62,17,23,128,32
+18,Vector Energy Bar,home goods,781.56,609,962,18,19,370,93
+19,Wine - Fino Tio Pepe Gonzalez,electronics,254.53,253,214,19,8,830,71
+20,Creme De Menth - White,home goods,0.8,320,403,20,15,87,93
+21,Raisin - Dark,electronics,67.91,419,649,21,12,731,49
+22,"Nut - Hazelnut, Whole",clothing,658.04,80,907,22,25,679,19
+23,Cheese - Gouda,home goods,116.97,25,827,23,26,541,18
+24,Liqueur - Melon,home goods,119.45,798,881,24,15,600,19
+25,"Beets - Candy Cane, Organic",electronics,317.94,593,308,25,9,229,26
+26,"Tart Shells - Sweet, 2",home goods,700.09,24,458,26,18,554,13
+27,Potatoes - Fingerling 4 Oz,home goods,822.75,778,881,27,26,234,99
+28,Wine - Pinot Noir Stoneleigh,electronics,434.65,182,22,28,13,34,69
+29,Cinnamon Rolls,home goods,438.2,465,529,29,5,259,9
+30,Jam - Apricot,clothing,949.4,763,797,30,30,673,23
+31,"Wine - White, Chardonnay",clothing,667.73,772,297,31,5,121,83
+32,Wine - Chenin Blanc K.w.v.,electronics,775.48,454,277,32,16,319,10
+33,Blackberries,electronics,602.89,546,293,33,6,307,36
+34,Sage Ground Wiberg,clothing,929.52,249,466,34,22,864,75
+35,Wine - Cabernet Sauvignon,electronics,390.11,627,513,35,6,366,73
+36,Curry Powder Madras,clothing,416.78,204,99,36,19,33,28
+37,"Tomatoes - Cherry, Yellow",electronics,241.28,149,996,37,25,509,79
+38,Raisin - Dark,electronics,403.53,168,283,38,16,37,63
+39,Beef Striploin Aaa,clothing,620.59,803,224,39,13,984,56
+40,Pear - Asian,electronics,813.56,933,913,40,11,530,68
+41,Garlic - Peeled,clothing,574.21,727,637,41,3,928,7
+42,Chips - Potato Jalapeno,clothing,335.53,930,613,42,10,605,1
+43,"Split Peas - Green, Dry",home goods,870.15,709,866,43,8,180,60
+44,Sauce - Ranch Dressing,clothing,537.48,497,362,44,22,860,96
+45,Smirnoff Green Apple Twist,home goods,834.3,434,65,45,27,430,15
+46,Soupfoamcont12oz 112con,home goods,805.19,824,413,46,3,285,16
+47,"Sauce - Soya, Light",electronics,940.06,567,360,47,8,949,61
+48,"Nut - Hazelnut, Ground, Natural",home goods,334.93,232,800,48,18,846,56
+49,Chocolate Eclairs,clothing,337.01,632,961,49,6,78,47
+50,Wine - Cabernet Sauvignon,clothing,41.31,488,431,50,17,311,85
+51,Cheese - Valancey,clothing,860.79,650,375,51,22,654,20
+52,Chocolate Eclairs,clothing,709.16,431,105,52,8,960,17
+53,Pepper - Gypsy Pepper,home goods,692.01,369,444,53,7,467,89
+54,Soup Bowl Clear 8oz92008,home goods,588.61,926,46,54,2,265,69
+55,"Basil - Primerba, Paste",home goods,734.31,225,78,55,9,711,3
+56,Flour - Strong Pizza,clothing,450.77,979,224,56,29,243,58
+57,Energy Drink - Franks Original,clothing,466.75,535,859,57,19,620,33
+58,Vaccum Bag - 14x20,electronics,103.92,935,137,58,12,458,93
+59,Vinegar - Red Wine,home goods,374.61,193,425,59,19,713,9
+60,Sobe - Tropical Energy,home goods,520.19,687,146,60,2,733,29
+61,Sprouts - China Rose,electronics,210.45,580,551,61,2,863,46
+62,"Beans - Black Bean, Canned",clothing,688.93,268,293,62,1,402,85
+63,"Salmon - Atlantic, Fresh, Whole",home goods,61.37,307,752,63,23,948,38
+64,Snapple - Mango Maddness,electronics,337.69,965,898,64,19,714,51
+65,Wine - Charddonnay Errazuriz,home goods,469.99,544,933,65,14,579,88
+66,Pastry - Chocolate Chip Muffin,home goods,497.59,949,102,66,30,295,57
+67,Crackers - Trio,home goods,554.1,678,47,67,29,640,75
+68,Sprouts - Pea,clothing,97.44,671,456,68,12,310,18
+69,"Pork - Back, Short Cut, Boneless",home goods,268.24,605,324,69,8,665,94
+70,Olives - Morracan Dired,electronics,213.52,835,834,70,3,362,12
+71,Wine - Pinot Noir Latour,clothing,4.58,414,817,71,30,786,60
+72,Tarragon - Fresh,clothing,220.76,212,971,72,5,146,24
+73,Sobe - Orange Carrot,home goods,518.27,955,943,73,8,647,32
+74,"Beans - Turtle, Black, Dry",electronics,329.81,138,885,74,4,563,67
+75,"Iced Tea - Lemon, 340ml",clothing,157.59,2,97,75,10,836,10
+76,The Pop Shoppe - Cream Soda,clothing,130.36,527,336,76,6,210,14
+77,Pork - Bones,clothing,15.12,960,483,77,3,847,91
+78,Wasabi Powder,home goods,301.99,877,189,78,10,520,31
+79,Beans - Wax,clothing,560.27,400,565,79,14,84,87
+80,Beef - Salted,clothing,309.24,285,492,80,11,718,91
+81,Salt - Table,clothing,56.65,687,668,81,14,687,89
+82,Snapple - Mango Maddness,electronics,196.47,664,756,82,4,523,73
+83,Seabream Whole Farmed,clothing,21.36,983,611,83,22,902,21
+84,Sauce - Ranch Dressing,electronics,665.39,291,121,84,30,621,99
+85,Syrup - Monin - Blue Curacao,clothing,714.64,231,584,85,18,860,66
+86,Appetizer - Seafood Assortment,electronics,473.56,249,656,86,18,98,7
+87,Butter Balls Salted,clothing,652.42,577,141,87,16,32,85
+88,Shortbread - Cookie Crumbs,clothing,372.41,689,862,88,19,87,19
+89,Wine - Chateau Bonnet,electronics,342.6,410,929,89,3,296,16
+90,Napkin White,home goods,92.62,961,35,90,4,348,25
+91,Basil - Pesto Sauce,home goods,77.61,995,325,91,1,466,60
+92,Steampan - Foil,home goods,466.81,855,99,92,30,145,41
+93,Steam Pan Full Lid,electronics,469.29,268,770,93,29,844,65
+94,Juice - Lemon,electronics,900.1,954,722,94,9,909,29
+95,Maintenance Removal Charge,clothing,264.09,141,440,95,14,507,25
+96,Lobak,clothing,227.37,19,894,96,7,559,98
+97,"Squash - Pattypan, Yellow",clothing,747.65,333,817,97,5,198,9
+98,Salt - Sea,home goods,449.83,794,22,98,5,310,59
+99,Appetizer - Crab And Brie,electronics,558.73,781,803,99,8,656,4
+100,"Pasta - Fettuccine, Egg, Fresh",electronics,712.68,803,76,100,22,934,45
+101,"Olives - Black, Pitted",clothing,507.83,962,622,101,6,224,80
+102,"Hickory Smoke, Liquid",home goods,189.98,559,411,102,21,707,97
+103,Red Pepper Paste,home goods,443.54,5,139,103,26,941,24
+104,Sugar - Palm,home goods,499.66,715,607,104,27,505,50
+105,Wine - Ruffino Chianti,clothing,991.16,78,182,105,21,825,69
+106,Chocolate Eclairs,electronics,909.61,209,554,106,18,3,99
+107,Cheese - Bakers Cream Cheese,clothing,251.42,760,470,107,10,612,36
+108,Water - Aquafina Vitamin,home goods,36.99,521,588,108,15,562,70
+109,Pastry - Cherry Danish - Mini,electronics,96.63,194,719,109,10,976,40
+110,Trueblue - Blueberry Cranberry,clothing,530.39,17,598,110,27,525,49
+111,Juice Peach Nectar,clothing,541.54,409,330,111,18,317,23
+112,Pork - Ground,home goods,539.89,412,485,112,25,776,83
+113,Onions Granulated,home goods,714.27,221,984,113,3,404,77
+114,Bread Ww Cluster,home goods,5.0,457,422,114,10,84,9
+115,Bandage - Finger Cots,clothing,539.34,908,239,115,22,890,62
+116,"Dill - Primerba, Paste",home goods,439.68,544,609,116,20,26,49
+117,Tray - 16in Rnd Blk,home goods,159.55,277,885,117,22,995,20
+118,Table Cloth 53x53 White,electronics,735.09,785,290,118,5,566,68
+119,Arctic Char - Fillets,clothing,840.5,878,251,119,11,275,84
+120,Food Colouring - Blue,home goods,113.49,291,361,120,25,554,9
+121,Chinese Foods - Chicken Wing,clothing,870.19,170,249,121,20,264,6
+122,Ice Cream - Life Savers,electronics,960.52,739,411,122,29,971,65
+123,"Lamb - Leg, Boneless",home goods,831.23,388,342,123,21,134,99
+124,Flour Pastry Super Fine,electronics,261.89,125,113,124,13,112,94
+125,"Ham - Smoked, Bone - In",home goods,180.28,485,549,125,18,409,66
+126,Waffle Stix,electronics,572.62,402,367,126,22,632,46
+127,Fork - Plastic,electronics,722.92,415,52,127,25,55,40
+128,Island Oasis - Mango Daiquiri,home goods,732.8,788,973,128,4,747,51
+129,Truffle Shells - Semi - Sweet,electronics,362.48,336,641,129,12,838,42
+130,Wine - Alsace Gewurztraminer,clothing,373.7,701,328,130,16,232,4
+131,Energy - Boo - Koo,clothing,595.12,794,1,131,5,259,5
+132,"Crab - Blue, Frozen",electronics,390.33,85,458,132,25,566,23
+133,Lemonade - Pineapple Passion,clothing,155.92,801,866,133,26,507,59
+134,"Pasta - Penne, Rigate, Dry",clothing,111.45,985,135,134,5,671,77
+135,Duck - Legs,electronics,450.64,987,826,135,1,656,62
+136,"Wine - Red, Colio Cabernet",electronics,366.59,876,28,136,10,12,39
+137,Soup - Cream Of Broccoli,home goods,608.87,764,281,137,11,273,27
+138,"Beef - Rouladin, Sliced",home goods,51.92,389,56,138,22,714,34
+139,Tarts Assorted,clothing,753.94,797,711,139,12,459,83
+140,Chicken - Tenderloin,home goods,385.1,425,237,140,22,12,55
+141,Wine - Fino Tio Pepe Gonzalez,clothing,142.24,183,409,141,17,667,8
+142,"Wine - White, Lindemans Bin 95",home goods,743.65,33,321,142,1,615,39
+143,"Beans - Black Bean, Canned",home goods,778.37,643,567,143,18,860,99
+144,Wine - Balbach Riverside,clothing,980.69,658,864,144,23,78,96
+145,Wine - Trimbach Pinot Blanc,electronics,837.78,715,576,145,21,805,34
+146,Beef - Top Butt Aaa,electronics,229.58,203,710,146,15,499,2
+147,"Gingerale - Schweppes, 355 Ml",home goods,218.5,434,154,147,3,281,91
+148,Wine - Champagne Brut Veuve,electronics,432.52,226,746,148,15,970,8
+149,Whmis - Spray Bottle Trigger,home goods,976.07,613,444,149,26,411,71
+150,Sage - Rubbed,home goods,213.24,337,691,150,30,711,63
+151,Wine - Casablanca Valley,home goods,754.58,872,430,151,30,5,37
+152,Beef Flat Iron Steak,electronics,719.76,580,167,152,27,749,50
+153,Sobe - Liz Blizz,home goods,759.55,279,166,153,16,611,44
+154,"Juice - Clamato, 341 Ml",clothing,73.58,156,983,154,22,693,46
+155,Squash - Butternut,electronics,104.33,987,945,155,1,737,8
+156,Peppercorns - Pink,electronics,691.01,177,127,156,2,908,35
+157,Wine - Rhine Riesling Wolf Blass,electronics,388.99,109,11,157,22,211,12
+158,"Beef - Tongue, Fresh",electronics,23.69,947,594,158,5,474,44
+159,Tomato Paste,electronics,12.12,727,160,159,25,75,89
+160,Juice - Mango,electronics,72.51,801,601,160,30,900,62
+161,Kolrabi,electronics,926.44,509,272,161,2,739,54
+162,Bread Ww Cluster,home goods,115.38,703,626,162,24,571,65
+163,"Lamb - Racks, Frenched",home goods,368.95,832,421,163,4,444,67
+164,Arctic Char - Fillets,home goods,265.47,229,862,164,2,705,87
+165,Onion - Dried,home goods,445.89,176,829,165,8,683,72
+166,Soup - Campbells Broccoli,electronics,968.39,255,205,166,11,137,28
+167,Table Cloth 90x90 Colour,home goods,314.69,263,705,167,2,678,80
+168,"Cheese - Cheddar, Old White",home goods,248.96,923,392,168,15,349,73
+169,Venison - Racks Frenched,clothing,99.19,629,867,169,9,350,84
+170,Bread - Petit Baguette,home goods,981.68,617,377,170,24,47,99
+171,Beer - True North Lager,home goods,206.37,36,851,171,25,315,86
+172,Crab - Imitation Flakes,electronics,937.49,369,124,172,13,736,11
+173,"Pasta - Detalini, White, Fresh",electronics,584.91,476,321,173,1,370,62
+174,Energy Drink - Redbull 355ml,electronics,263.45,109,924,174,6,383,82
+175,Icecream - Dstk Strw Chseck,home goods,977.42,302,540,175,1,918,48
+176,Tea - Grapefruit Green Tea,electronics,841.95,973,890,176,30,616,19
+177,"Chicken - Breast, 5 - 7 Oz",home goods,960.25,529,110,177,30,896,21
+178,"Syrup - Monin, Amaretta",clothing,597.5,114,753,178,11,162,82
+179,Smirnoff Green Apple Twist,electronics,230.65,76,603,179,30,467,21
+180,Bread - Kimel Stick Poly,clothing,719.0,561,17,180,4,405,78
+181,"Bread - Roll, Italian",clothing,965.18,850,83,181,27,83,91
+182,Veal - Provimi Inside,home goods,617.0,997,262,182,29,383,57
+183,Cheese - Gouda,home goods,577.82,398,742,183,10,707,41
+184,Wine - Sauvignon Blanc Oyster,home goods,138.06,887,249,184,19,546,82
+185,Beer - Tetleys,electronics,798.4,124,107,185,8,453,60
+186,Dish Towel,home goods,728.7,73,742,186,13,961,62
+187,Beef - Ground Lean Fresh,clothing,798.26,45,743,187,19,602,27
+188,Cheese - Stilton,home goods,951.28,223,889,188,14,793,4
+189,Chocolate - Unsweetened,electronics,521.89,285,401,189,7,386,5
+190,Arrowroot,clothing,288.28,294,316,190,22,620,5
+191,"Wine - White, Chardonnay",electronics,376.67,663,141,191,8,916,99
+192,Mushroom - Portebello,electronics,742.0,57,878,192,17,180,5
+193,"Pasta - Canelloni, Single Serve",electronics,481.64,463,981,193,20,305,46
+194,Oil - Cooking Spray,electronics,244.93,791,297,194,12,342,89
+195,Sea Urchin,clothing,998.13,66,26,195,24,383,52
+196,"Crab - Back Fin Meat, Canned",electronics,147.67,521,809,196,18,929,40
+197,Cheese - Brick With Onion,electronics,304.89,402,50,197,8,0,54
+198,Coconut - Whole,electronics,32.13,792,592,198,5,646,6
+199,Beef - Ground Medium,clothing,990.69,4,125,199,14,922,22
+200,Dried Cherries,clothing,595.56,636,518,200,28,927,1
+201,Parsley Italian - Fresh,home goods,356.49,125,593,201,4,542,94
+202,Strawberries,clothing,270.44,777,402,202,2,794,36
+203,Rice Wine - Aji Mirin,clothing,127.97,245,450,203,14,101,7
+204,Carbonated Water - Wildberry,home goods,15.49,447,597,204,19,427,6
+205,Venison - Striploin,electronics,933.46,306,805,205,25,497,17
+206,"Iced Tea - Lemon, 340ml",home goods,537.56,23,294,206,20,236,85
+207,Paper Cocktail Umberlla 80 - 180,electronics,52.45,245,687,207,23,212,74
+208,Food Colouring - Blue,electronics,286.59,181,351,208,19,102,11
+209,"Water, Tap",clothing,983.89,167,234,209,2,351,80
+210,"Bread - Sticks, Thin, Plain",electronics,195.13,99,964,210,10,113,63
+211,Vinegar - Sherry,home goods,698.46,65,708,211,2,787,11
+212,Ocean Spray - Kiwi Strawberry,clothing,64.85,5,978,212,7,182,65
+213,Cleaner - Bleach,home goods,227.66,853,903,213,19,24,30
+214,Goat - Leg,electronics,93.76,133,140,214,28,118,66
+215,Yogurt - Assorted Pack,electronics,756.7,619,44,215,29,688,84
+216,"Coconut - Shredded, Sweet",home goods,949.54,227,415,216,21,528,90
+217,Wine - Touraine Azay - Le - Rideau,clothing,296.57,871,689,217,25,396,97
+218,Cakes Assorted,electronics,786.49,320,282,218,24,723,34
+219,Vinegar - Red Wine,home goods,509.68,150,246,219,5,196,3
+220,Wine - Kwv Chenin Blanc South,home goods,460.7,350,204,220,23,963,73
+221,Wine - Remy Pannier Rose,home goods,91.21,489,402,221,21,136,27
+222,Green Scrubbie Pad H.duty,electronics,921.9,630,977,222,6,11,86
+223,"Apple - Delicious, Golden",clothing,0.01,226,382,223,10,249,51
+224,Soupcontfoam16oz 116con,electronics,109.32,760,862,224,9,22,35
+225,Remy Red Berry Infusion,clothing,623.35,985,93,225,30,177,17
+226,Mix - Cocktail Ice Cream,home goods,210.07,943,311,226,21,276,100
+227,"Beef - Rib Roast, Capless",clothing,820.22,617,862,227,1,688,27
+228,Godiva White Chocolate,electronics,941.69,448,758,228,9,346,51
+229,Flour - Strong Pizza,home goods,278.24,192,269,229,6,533,2
+230,"Hickory Smoke, Liquid",clothing,460.42,784,873,230,5,771,84
+231,Beets - Golden,clothing,880.79,415,6,231,25,206,17
+232,Cotton Wet Mop 16 Oz,electronics,914.75,871,429,232,27,825,25
+233,Table Cloth 53x53 White,electronics,111.66,372,79,233,27,42,49
+234,Wine - Stoneliegh Sauvignon,clothing,502.65,128,80,234,10,232,81
+235,Ice Cream - Life Savers,home goods,733.51,265,114,235,7,480,37
+236,Sugar - Individual Portions,electronics,368.09,277,907,236,19,209,36
+237,"Veal - Inside, Choice",clothing,217.38,165,520,237,14,64,90
+238,Tea - Decaf Lipton,electronics,922.79,869,368,238,28,831,95
+239,Allspice - Jamaican,home goods,893.9,498,298,239,4,424,42
+240,Yoplait Drink,home goods,893.83,359,559,240,12,33,36
+241,Bread - Multigrain Oval,home goods,17.16,397,906,241,3,407,38
+242,Shark - Loin,clothing,502.68,680,938,242,12,895,98
+243,Flour - Pastry,home goods,6.55,327,209,243,17,782,14
+244,Pepper - Scotch Bonnet,home goods,91.85,882,245,244,26,221,34
+245,Onions - Red,home goods,228.19,456,416,245,20,763,95
+246,Bagel - Plain,clothing,627.66,566,306,246,6,684,1
+247,Turkey - Ground. Lean,electronics,779.24,960,404,247,9,961,14
+248,"Wine - Red, Gallo, Merlot",home goods,555.64,881,71,248,15,804,11
+249,Jameson Irish Whiskey,clothing,893.95,273,342,249,15,212,92
+250,Rootbeer,electronics,485.71,618,720,250,13,826,44
+251,Muffin Mix - Raisin Bran,clothing,700.16,252,972,251,9,791,9
+252,"Wine - White, Concha Y Toro",electronics,604.98,35,800,252,23,669,17
+253,"Potatoes - Yukon Gold, 80 Ct",home goods,721.7,506,770,253,11,262,73
+254,"Juice - Orange, Concentrate",home goods,950.36,65,913,254,4,569,10
+255,Wood Chips - Regular,clothing,717.78,159,230,255,15,582,98
+256,Wine - Red Oakridge Merlot,electronics,806.25,964,58,256,3,507,40
+257,Calvados - Boulard,home goods,188.83,356,822,257,22,437,38
+258,Cheese - Brick With Onion,home goods,724.69,159,581,258,13,156,33
+259,Easy Off Oven Cleaner,clothing,8.29,635,262,259,12,621,49
+260,Shrimp - Black Tiger 13/15,home goods,646.4,246,873,260,20,759,97
+261,Veal - Leg,clothing,289.37,203,666,261,18,88,78
+262,Muffin Mix - Blueberry,clothing,365.07,378,838,262,11,193,82
+263,Pork - Caul Fat,home goods,756.95,571,979,263,23,735,4
+264,Oil - Hazelnut,clothing,517.04,160,482,264,3,346,78
+265,Turkey Tenderloin Frozen,electronics,688.02,592,621,265,8,106,38
+266,Lamb - Shoulder,home goods,183.67,43,372,266,21,308,13
+267,Bacardi Limon,clothing,470.6,514,157,267,22,157,19
+268,Wine - Redchard Merritt,electronics,518.75,928,162,268,12,680,19
+269,Apricots Fresh,clothing,375.81,877,827,269,26,509,97
+270,Turkey - Ground. Lean,electronics,833.73,594,115,270,24,913,94
+271,Sauce - Fish 25 Ozf Bottle,clothing,66.61,381,776,271,25,913,27
+272,True - Vue Containers,clothing,548.38,763,520,272,20,522,61
+273,Cup Translucent 9 Oz,electronics,757.48,90,693,273,8,175,70
+274,Cocoa Powder - Dutched,home goods,686.27,443,459,274,22,699,70
+275,Rabbit - Saddles,home goods,718.99,883,644,275,28,78,95
+276,Chicken - Whole Roasting,clothing,986.54,575,6,276,5,863,88
+277,"Pepper - Black, Crushed",home goods,497.37,372,344,277,21,262,41
+278,Milk - Condensed,home goods,331.9,438,276,278,29,989,73
+279,Crab Brie In Phyllo,home goods,198.95,544,663,279,19,206,88
+280,Tomatoes - Roma,home goods,772.37,328,455,280,15,312,1
+281,Sauce - Salsa,electronics,921.14,534,255,281,1,568,80
+282,Ecolab - Hand Soap Form Antibac,home goods,108.62,800,685,282,8,927,42
+283,Plums - Red,home goods,116.36,746,168,283,19,360,16
+284,Calypso - Strawberry Lemonade,clothing,44.91,340,216,284,2,787,88
+285,Pastry - Cheese Baked Scones,clothing,222.22,601,979,285,13,216,67
+286,Miso Paste White,electronics,231.72,311,245,286,10,502,38
+287,Pork - Smoked Kassler,clothing,42.12,590,147,287,8,428,66
+288,Russian Prince,home goods,704.02,603,551,288,17,931,59
+289,Bread - Granary Small Pull,clothing,632.81,150,369,289,11,380,62
+290,"Veal - Chops, Split, Frenched",home goods,703.67,624,401,290,17,554,56
+291,Flavouring - Raspberry,clothing,264.62,285,393,291,16,406,56
+292,Bread - Mini Hamburger Bun,home goods,723.35,249,859,292,25,648,3
+293,Wine - Dubouef Macon - Villages,electronics,114.47,275,516,293,2,114,99
+294,"Pasta - Penne, Rigate, Dry",electronics,171.95,712,841,294,16,77,29
+295,Oranges,clothing,766.92,300,468,295,13,569,78
+296,Cotton Wet Mop 16 Oz,home goods,565.66,872,466,296,7,634,73
+297,"Pasta - Fusili, Dry",clothing,238.29,703,751,297,2,162,94
+298,Wine - Niagara Peninsula Vqa,electronics,440.93,956,667,298,1,938,25
+299,Bread - Hot Dog Buns,home goods,218.65,350,676,299,23,862,66
+300,Squash - Sunburst,home goods,902.65,954,873,300,29,267,27
+301,Schnappes Peppermint - Walker,clothing,133.07,565,878,301,17,668,25
+302,"Pepper - Julienne, Frozen",home goods,326.31,352,347,302,19,438,32
+303,Wine - Spumante Bambino White,clothing,543.91,698,770,303,30,388,47
+304,Beef - Rib Eye Aaa,home goods,285.32,253,779,304,14,388,38
+305,"Wine - Niagara,vqa Reisling",home goods,511.22,264,494,305,5,641,64
+306,Beer - Heinekin,electronics,264.74,922,338,306,3,132,20
+307,Juice - Orangina,clothing,70.29,445,265,307,30,514,6
+308,"Pepper - Black, Whole",home goods,173.15,479,60,308,6,530,85
+309,Flower - Daisies,home goods,586.2,628,44,309,10,14,56
+310,"Juice - Apple, 341 Ml",electronics,520.15,338,944,310,30,76,47
+311,Carbonated Water - Orange,home goods,355.64,395,167,311,22,289,83
+312,Sobe - Green Tea,electronics,889.29,103,366,312,24,273,20
+313,"Soup - Campbells, Beef Barley",electronics,731.79,603,139,313,12,334,28
+314,Pepper - Red Bell,home goods,919.94,753,91,314,12,377,26
+315,"Plate - Foam, Bread And Butter",home goods,145.44,852,670,315,15,55,23
+316,Blue Curacao - Marie Brizard,home goods,627.23,106,357,316,5,326,73
+317,Bread - Corn Muffaleta Onion,electronics,300.98,949,147,317,9,943,30
+318,Flavouring - Orange,clothing,912.7,811,32,318,12,445,9
+319,"Pasta - Bauletti, Chicken White",clothing,920.42,315,427,319,25,928,72
+320,"Veal - Inside Round / Top, Lean",electronics,633.69,179,76,320,13,664,14
+321,Cakes Assorted,clothing,979.59,197,571,321,18,698,78
+322,Bamboo Shoots - Sliced,home goods,592.29,657,535,322,30,983,96
+323,"Cherries - Bing, Canned",clothing,800.08,986,354,323,24,487,45
+324,"Bread - Roll, Whole Wheat",electronics,668.13,987,456,324,1,416,2
+325,Cucumber - English,home goods,381.54,449,547,325,14,927,15
+326,Quiche Assorted,clothing,290.55,901,96,326,30,709,67
+327,Oats Large Flake,clothing,500.93,116,227,327,11,555,35
+328,Bar - Sweet And Salty Chocolate,home goods,934.72,571,357,328,12,953,50
+329,Chocolate Bar - Smarties,home goods,905.72,902,436,329,21,218,75
+330,"Ham - Smoked, Bone - In",home goods,327.0,433,743,330,9,117,32
+331,Lentils - Green Le Puy,home goods,587.96,523,134,331,10,56,49
+332,Dc Hikiage Hira Huba,home goods,686.88,951,603,332,27,743,77
+333,Cookie - Oreo 100x2,home goods,291.8,27,844,333,2,21,88
+334,Lid - 0090 Clear,electronics,754.07,796,181,334,22,71,45
+335,Chocolate - Milk Coating,home goods,507.41,142,976,335,16,578,3
+336,Wood Chips - Regular,home goods,324.07,38,101,336,10,725,88
+337,Ham - Virginia,home goods,11.18,263,432,337,28,262,58
+338,Bread - Italian Sesame Poly,electronics,573.58,719,283,338,4,186,36
+339,Venison - Striploin,clothing,931.28,92,446,339,18,324,59
+340,"Salmon - Whole, 4 - 6 Pounds",clothing,918.82,313,303,340,21,665,75
+341,Butter Balls Salted,electronics,709.78,966,758,341,30,634,19
+342,Tomatoes - Cherry,electronics,5.28,17,793,342,14,284,6
+343,"Pork - Sausage, Medium",home goods,438.45,799,748,343,3,575,5
+344,Carbonated Water - Wildberry,electronics,911.4,101,417,344,24,753,83
+345,Bacardi Breezer - Tropical,clothing,316.58,776,747,345,9,374,11
+346,Bread - Sour Batard,clothing,631.54,26,130,346,3,519,42
+347,Bar - Sweet And Salty Chocolate,home goods,552.45,54,375,347,17,886,87
+348,Sesame Seed Black,clothing,279.69,812,718,348,19,624,43
+349,"Salsify, Organic",clothing,326.96,216,318,349,5,402,99
+350,Guinea Fowl,home goods,812.26,818,480,350,28,247,29
+351,Wine - Lamancha Do Crianza,electronics,611.06,916,63,351,3,816,15
+352,Sauce - Thousand Island,electronics,531.2,318,363,352,9,509,19
+353,Milk Powder,clothing,952.01,601,116,353,17,960,12
+354,Lettuce - Arugula,home goods,407.46,433,656,354,21,528,42
+355,Wine - Soave Folonari,clothing,52.19,627,533,355,4,940,43
+356,Lemon Grass,electronics,437.18,790,118,356,14,103,87
+357,Compound - Orange,home goods,377.61,78,623,357,10,499,40
+358,Towels - Paper / Kraft,electronics,597.3,603,292,358,20,517,54
+359,Steampan - Half Size Shallow,home goods,551.51,222,823,359,13,521,19
+360,Sage Ground Wiberg,clothing,90.41,116,615,360,12,71,9
+361,Food Colouring - Pink,clothing,273.54,203,353,361,26,627,83
+362,Cheese - Blue,home goods,206.7,323,620,362,18,991,46
+363,"Bread - Roll, Calabrese",clothing,262.86,591,957,363,21,742,35
+364,Pepper - Sorrano,electronics,211.06,139,681,364,6,570,22
+365,Chicken Thigh - Bone Out,clothing,677.33,418,381,365,13,468,37
+366,"Tart Shells - Sweet, 4",home goods,73.25,774,995,366,27,489,84
+367,Spice - Paprika,clothing,961.19,771,386,367,26,380,51
+368,Tomato - Tricolor Cherry,clothing,41.25,449,553,368,30,48,70
+369,"Pork - Sausage, Medium",home goods,27.31,839,598,369,7,907,32
+370,Ice Cream Bar - Drumstick,clothing,314.2,414,515,370,21,962,8
+371,Soap - Pine Sol Floor Cleaner,clothing,263.42,599,562,371,20,563,64
+372,Spice - Montreal Steak Spice,electronics,939.34,747,730,372,21,62,51
+373,"Wine - Mas Chicet Rose, Vintage",home goods,647.28,984,617,373,4,202,26
+374,Muffin Orange Individual,electronics,502.05,746,757,374,15,8,98
+375,Shallots,clothing,533.21,552,545,375,11,533,13
+376,Beef - Rib Eye Aaa,electronics,28.86,512,753,376,18,83,89
+377,Muffin Mix - Blueberry,electronics,820.69,986,462,377,29,338,31
+378,"Wine - White, Riesling, Semi - Dry",electronics,556.3,725,138,378,26,279,7
+379,"Nut - Pecan, Halves",clothing,656.31,140,781,379,5,227,19
+380,Tea - Mint,electronics,739.38,922,208,380,9,933,66
+381,Wine - Savigny - Les - Beaune,clothing,498.86,482,66,381,24,709,61
+382,Juice - Ocean Spray Kiwi,clothing,36.69,940,627,382,3,224,13
+383,Bacardi Mojito,electronics,52.36,48,45,383,30,291,91
+384,Beer - Mcauslan Apricot,home goods,15.27,928,101,384,24,344,50
+385,Longos - Burritos,clothing,684.15,283,466,385,25,360,8
+386,"Salmon - Whole, 4 - 6 Pounds",clothing,288.87,431,477,386,2,971,27
+387,Dr. Pepper - 355ml,clothing,899.91,669,448,387,12,419,3
+388,Ginger - Crystalized,home goods,936.85,137,745,388,20,820,14
+389,"Wine - White, Pelee Island",clothing,787.02,857,178,389,14,244,3
+390,Fennel - Seeds,home goods,407.39,724,445,390,9,236,15
+391,Wine - Vidal Icewine Magnotta,home goods,779.35,112,364,391,26,819,66
+392,"Tart Shells - Sweet, 3",electronics,8.66,200,909,392,21,380,40
+393,"Club Soda - Schweppes, 355 Ml",clothing,737.23,383,710,393,5,809,3
+394,Onions - Vidalia,clothing,59.83,905,638,394,10,290,60
+395,Energy Drink Bawls,home goods,571.14,909,709,395,24,352,94
+396,Lettuce - Lambs Mash,clothing,633.25,378,84,396,8,46,9
+397,"Fish - Base, Bouillion",clothing,631.2,560,267,397,20,107,10
+398,Crab - Meat,electronics,399.85,340,457,398,11,917,35
+399,Chicken - Base,electronics,863.93,336,536,399,14,710,6
+400,Sugar Thermometer,electronics,574.42,262,115,400,23,22,85
+401,Island Oasis - Pina Colada,home goods,917.39,400,110,401,11,673,26
+402,Lamb Rack Frenched Australian,clothing,297.73,360,160,402,25,751,61
+403,Chef Hat 20cm,electronics,648.15,122,906,403,12,590,27
+404,Bread Ww Cluster,home goods,568.29,469,987,404,1,193,16
+405,Squash - Guords,electronics,858.18,903,480,405,26,792,40
+406,Flour - Strong,electronics,985.62,997,143,406,21,305,49
+407,Bread - French Baquette,electronics,431.66,903,635,407,8,79,90
+408,Lighter - Bbq,electronics,842.86,204,305,408,27,371,87
+409,Pork - Kidney,clothing,716.7,977,352,409,24,843,62
+410,"Lentils - Red, Dry",home goods,212.67,772,103,410,21,776,49
+411,"Mushroom - Porcini, Dry",clothing,11.26,226,607,411,29,628,22
+412,"Juice - Grapefruit, 341 Ml",home goods,844.78,556,329,412,12,659,45
+413,Cocoa Butter,clothing,626.29,738,213,413,26,373,54
+414,Food Colouring - Blue,clothing,411.27,239,201,414,23,908,50
+415,Grapes - Red,home goods,913.3,793,179,415,29,638,30
+416,Table Cloth 72x144 White,home goods,238.13,651,857,416,15,348,57
+417,Wine - Sicilia Igt Nero Avola,clothing,911.78,547,941,417,17,101,59
+418,Juice - Lagoon Mango,clothing,77.64,516,792,418,7,484,15
+419,Sausage - Liver,electronics,31.43,811,685,419,21,189,95
+420,"Chicken - Base, Ultimate",clothing,664.85,239,201,420,16,488,82
+421,Bread - Multigrain,clothing,371.02,188,763,421,13,95,41
+422,Pear - Prickly,clothing,993.14,711,418,422,3,939,88
+423,"Beans - Black Bean, Canned",clothing,9.31,581,957,423,17,611,29
+424,Vinegar - Cider,home goods,542.78,196,311,424,16,865,63
+425,Eggs - Extra Large,electronics,889.39,991,786,425,1,857,57
+426,Sausage - Blood Pudding,home goods,673.98,460,916,426,26,233,76
+427,Beef - Tenderloin,clothing,468.2,274,248,427,20,83,84
+428,Flour - So Mix Cake White,home goods,579.24,146,132,428,20,207,78
+429,"Wine - White, Riesling, Semi - Dry",home goods,194.15,846,974,429,21,82,72
+430,Wood Chips - Regular,electronics,69.44,282,101,430,6,22,42
+431,Cream - 10%,electronics,883.68,379,716,431,29,662,87
+432,Apple - Royal Gala,home goods,112.47,799,929,432,1,790,56
+433,"Clams - Littleneck, Whole",electronics,835.42,244,364,433,19,381,90
+434,"Pasta - Rotini, Dry",clothing,200.46,629,924,434,5,353,19
+435,Pie Shell - 5,clothing,303.35,58,527,435,20,740,62
+436,Devonshire Cream,clothing,286.57,302,843,436,1,209,58
+437,Butter Ripple - Phillips,electronics,503.09,644,559,437,20,480,27
+438,"Ice - Clear, 300 Lb For Carving",electronics,481.39,862,886,438,25,185,68
+439,Glove - Cutting,clothing,777.16,792,408,439,15,388,48
+440,Napkin Colour,electronics,330.96,984,396,440,15,664,32
+441,Ecolab - Hand Soap Form Antibac,home goods,302.02,679,131,441,26,963,42
+442,Soup - Campbells Beef Noodle,clothing,29.03,514,438,442,3,26,26
+443,Lobster - Live,electronics,18.81,378,246,443,26,456,49
+444,Coffee Cup 12oz 5342cd,home goods,861.87,345,553,444,18,664,79
+445,Lamb - Shanks,clothing,901.4,822,242,445,24,133,58
+446,Cape Capensis - Fillet,clothing,163.08,939,806,446,2,919,77
+447,"Beef - Bones, Marrow",clothing,390.89,563,102,447,2,935,26
+448,Coconut Milk - Unsweetened,electronics,780.16,147,885,448,11,227,89
+449,Coffee - Egg Nog Capuccino,clothing,91.07,80,452,449,8,771,30
+450,Pike - Frozen Fillet,electronics,131.44,972,1,450,27,883,45
+451,Haggis,clothing,950.42,967,442,451,3,644,84
+452,Cauliflower,electronics,124.96,635,944,452,15,151,74
+453,Dill Weed - Dry,electronics,718.13,358,956,453,6,80,27
+454,"Pasta - Elbows, Macaroni, Dry",clothing,605.0,734,456,454,20,878,92
+455,Wine - Placido Pinot Grigo,clothing,769.42,484,335,455,5,823,28
+456,Crawfish,clothing,795.13,479,215,456,15,998,55
+457,Extract - Rum,electronics,128.01,668,168,457,18,12,71
+458,Bamboo Shoots - Sliced,clothing,614.99,142,187,458,20,188,71
+459,Lamb - Shanks,home goods,503.79,359,696,459,22,383,76
+460,"Placemat - Scallop, White",electronics,205.89,157,648,460,22,435,97
+461,English Muffin,electronics,419.22,60,445,461,4,901,93
+462,Ginger - Fresh,clothing,681.4,428,558,462,16,934,63
+463,Molasses - Fancy,home goods,700.76,622,413,463,7,22,12
+464,Cheese Cloth No 100,clothing,578.64,118,57,464,17,547,89
+465,Magnotta Bel Paese Red,clothing,610.79,227,491,465,12,91,85
+466,Sauce - Hollandaise,home goods,980.98,564,465,466,11,111,21
+467,Muffin Mix - Carrot,home goods,973.02,855,648,467,7,583,47
+468,Cheese - Fontina,electronics,925.9,684,991,468,19,916,97
+469,"Roe - Lump Fish, Red",clothing,438.62,149,607,469,17,677,91
+470,Bay Leaf Fresh,home goods,770.65,487,95,470,1,19,48
+471,Eel Fresh,electronics,752.56,633,609,471,6,858,89
+472,Foam Espresso Cup Plain White,clothing,401.91,863,289,472,3,846,72
+473,General Purpose Trigger,electronics,330.51,628,489,473,17,552,3
+474,Sprouts Dikon,electronics,971.51,957,806,474,9,393,17
+475,Wine - Dubouef Macon - Villages,electronics,246.06,252,472,475,23,611,16
+476,"Wine - White, Riesling, Henry Of",home goods,117.63,538,555,476,8,92,98
+477,Soup - Base Broth Beef,clothing,28.28,512,513,477,28,259,30
+478,Cookies - Englishbay Wht,clothing,176.27,141,512,478,23,971,44
+479,Persimmons,clothing,402.96,994,563,479,2,312,93
+480,Spring Roll Veg Mini,electronics,45.69,826,69,480,24,550,19
+481,Lemon Grass,home goods,275.65,623,42,481,9,857,29
+482,"Chicken - Base, Ultimate",electronics,951.93,475,39,482,17,887,62
+483,"Cheese - Romano, Grated",home goods,590.4,523,836,483,14,394,85
+484,Quail Eggs - Canned,electronics,296.55,35,634,484,17,296,24
+485,"Beef - Rouladin, Sliced",electronics,420.17,557,222,485,12,519,11
+486,Brandy Cherry - Mcguinness,home goods,661.44,783,685,486,24,467,42
+487,Chervil - Fresh,home goods,371.62,973,831,487,4,390,16
+488,Baking Soda,clothing,982.39,910,509,488,28,496,93
+489,"Vinegar - Balsamic, White",electronics,250.34,306,947,489,11,597,14
+490,Chocolate - Semi Sweet,home goods,265.85,601,522,490,7,7,73
+491,"Octopus - Baby, Cleaned",clothing,904.54,709,805,491,2,14,43
+492,Basil - Pesto Sauce,clothing,960.34,321,640,492,3,112,60
+493,Wine - Fat Bastard Merlot,electronics,673.44,417,802,493,24,9,2
+494,Yucca,electronics,244.84,982,687,494,28,986,18
+495,Muffin Puck Ww Carrot,electronics,745.64,291,332,495,5,175,31
+496,Muffin Mix - Raisin Bran,electronics,450.47,273,620,496,29,912,86
+497,Ostrich - Fan Fillet,home goods,367.1,938,995,497,3,645,19
+498,Pastry - French Mini Assorted,electronics,707.41,66,653,498,24,504,50
+499,Pan Grease,electronics,289.23,97,497,499,9,711,35
+500,Carbonated Water - Peach,clothing,976.82,739,571,500,30,557,91
+501,Oysters - Smoked,clothing,288.72,880,4,501,14,383,48
+502,Piping - Bags Quizna,clothing,566.52,86,29,502,12,69,28
+503,"Coconut - Creamed, Pure",clothing,372.6,614,768,503,28,72,31
+504,Table Cloth 62x120 White,electronics,925.1,967,557,504,27,634,4
+505,Plasticknivesblack,home goods,75.7,32,132,505,26,787,53
+506,Mustard - Dijon,home goods,925.94,374,655,506,19,702,64
+507,Kohlrabi,home goods,475.05,916,193,507,17,547,16
+508,Puree - Guava,clothing,316.89,588,408,508,7,70,58
+509,Appetizer - Assorted Box,clothing,541.28,76,608,509,22,964,17
+510,Steam Pan - Half Size Deep,clothing,423.52,505,48,510,20,442,17
+511,"Water - Spring Water, 355 Ml",clothing,99.03,699,433,511,16,44,85
+512,Figs,electronics,951.18,7,459,512,13,343,19
+513,Peach - Halves,home goods,891.7,758,985,513,8,813,75
+514,"Cheese - Havarti, Roasted Garlic",clothing,942.25,785,203,514,30,940,74
+515,Laundry - Bag Cloth,home goods,497.37,947,319,515,22,9,99
+516,Bread - Italian Corn Meal Poly,home goods,628.75,552,394,516,15,208,6
+517,Squash - Butternut,clothing,50.21,298,268,517,20,410,42
+518,"Shrimp - 16/20, Peeled Deviened",electronics,223.71,304,184,518,25,598,90
+519,Shiro Miso,home goods,313.93,240,292,519,16,822,27
+520,Island Oasis - Ice Cream Mix,clothing,432.43,130,691,520,6,87,52
+521,Tarragon - Fresh,home goods,88.31,37,801,521,15,883,37
+522,Hold Up Tool Storage Rack,electronics,873.25,109,57,522,13,160,18
+523,Soho Lychee Liqueur,clothing,808.15,376,233,523,18,683,91
+524,"Pork - Bacon,back Peameal",home goods,851.27,980,891,524,14,557,62
+525,Sauce - Rosee,clothing,968.45,926,64,525,13,398,27
+526,Muffin Batt - Carrot Spice,home goods,100.24,804,246,526,11,59,85
+527,Wine - Alicanca Vinho Verde,clothing,997.41,986,18,527,30,908,4
+528,Sauce - Demi Glace,clothing,131.46,667,449,528,27,188,96
+529,"Nut - Peanut, Roasted",clothing,246.59,632,509,529,22,286,34
+530,Ice Cream Bar - Oreo Sandwich,electronics,996.32,933,651,530,10,923,89
+531,Veal - Slab Bacon,clothing,10.91,456,945,531,27,202,52
+532,"Ham - Smoked, Bone - In",home goods,454.11,861,36,532,25,11,60
+533,"Croissant, Raw - Mini",electronics,387.66,179,769,533,12,319,18
+534,Waffle Stix,electronics,848.11,850,960,534,20,758,18
+535,Taro Leaves,clothing,382.84,988,391,535,5,661,87
+536,Banana,clothing,406.67,619,985,536,13,130,49
+537,Alize Gold Passion,home goods,526.77,242,885,537,25,437,3
+538,Lamb - Shanks,home goods,421.73,601,357,538,25,686,38
+539,Wine - Barolo Fontanafredda,clothing,63.89,738,643,539,3,850,22
+540,Tomato - Plum With Basil,clothing,177.44,753,514,540,7,807,56
+541,Soup - Boston Clam Chowder,clothing,431.64,462,34,541,30,975,83
+542,Water - Spring 1.5lit,clothing,537.49,706,783,542,20,761,75
+543,"Beef - Baby, Liver",electronics,247.98,586,182,543,17,893,22
+544,"Salmon - Whole, 4 - 6 Pounds",clothing,176.63,164,234,544,3,583,62
+545,Lobster - Base,clothing,28.55,938,343,545,6,636,9
+546,Island Oasis - Raspberry,electronics,784.65,189,556,546,29,800,64
+547,Ecolab - Hobart Washarm End Cap,electronics,257.01,537,421,547,11,468,5
+548,Bread - Kimel Stick Poly,home goods,495.79,240,76,548,20,998,58
+549,Egg - Salad Premix,electronics,656.79,453,914,549,13,918,68
+550,Bread - French Stick,electronics,513.43,877,312,550,13,594,7
+551,"Pepper - Paprika, Spanish",clothing,717.58,969,920,551,19,279,2
+552,"Mushroom - Morels, Dry",clothing,661.5,6,505,552,4,971,18
+553,Coffee - 10oz Cup 92961,clothing,61.15,630,517,553,14,965,84
+554,Beef - Bresaola,clothing,612.66,157,24,554,9,211,76
+555,Cup - Translucent 7 Oz Clear,electronics,17.39,184,76,555,26,493,87
+556,Table Cloth 90x90 White,home goods,441.47,151,659,556,24,145,93
+557,Cheese - Ermite Bleu,home goods,401.86,882,95,557,23,526,82
+558,Mountain Dew,electronics,362.79,752,657,558,29,113,74
+559,Broom And Brush Rack Black,clothing,787.91,86,861,559,24,59,79
+560,Rabbit - Saddles,clothing,45.33,782,867,560,10,955,67
+561,Tuna - Loin,electronics,902.01,666,630,561,24,596,98
+562,"Lemonade - Natural, 591 Ml",electronics,369.46,884,921,562,24,702,55
+563,Appetizer - Veg Assortment,electronics,187.59,128,689,563,10,698,33
+564,Vinegar - Balsamic,clothing,884.44,916,348,564,9,704,73
+565,"Vodka - Lemon, Absolut",electronics,462.62,15,267,565,9,0,79
+566,"Coconut - Creamed, Pure",clothing,279.92,417,961,566,27,443,7
+567,Toothpick Frilled,home goods,211.52,657,733,567,30,909,33
+568,Beef - Tender Tips,clothing,491.91,400,574,568,11,234,86
+569,Sping Loaded Cup Dispenser,home goods,943.77,68,744,569,6,250,52
+570,"Clams - Littleneck, Whole",home goods,279.84,564,370,570,17,106,97
+571,Wine - White Cab Sauv.on,clothing,486.19,942,428,571,3,12,25
+572,"Pork - Sausage, Medium",clothing,453.6,141,325,572,22,644,32
+573,Bols Melon Liqueur,home goods,158.99,13,43,573,6,994,97
+574,Nantucket - Kiwi Berry Cktl.,clothing,510.37,395,303,574,11,128,16
+575,Nantucket - Pomegranate Pear,home goods,943.77,273,310,575,8,658,25
+576,Coffee - 10oz Cup 92961,home goods,790.06,31,106,576,17,294,70
+577,Taro Leaves,clothing,345.68,836,336,577,7,227,1
+578,Vanilla Beans,home goods,91.72,64,567,578,9,170,43
+579,Pastry - Carrot Muffin - Mini,electronics,431.87,257,298,579,9,379,69
+580,Wine - Chardonnay South,electronics,437.26,699,730,580,7,145,1
+581,Venison - Racks Frenched,home goods,128.26,38,669,581,27,982,14
+582,Longos - Chicken Caeser Salad,electronics,233.77,429,360,582,3,142,89
+583,Beer - Blue,clothing,448.71,52,837,583,7,276,44
+584,"Beef - Rouladin, Sliced",clothing,526.45,721,891,584,1,745,94
+585,Truffle Cups - White Paper,clothing,147.16,827,744,585,17,349,11
+586,"Pepper - Green, Chili",clothing,119.37,25,803,586,21,133,93
+587,Ham - Proscuitto,clothing,721.53,849,754,587,1,607,79
+588,Pasta - Orecchiette,home goods,15.5,409,134,588,30,876,27
+589,Kahlua,home goods,194.46,312,440,589,7,30,46
+590,Nantucket - Orange Mango Cktl,clothing,999.99,511,229,590,6,76,79
+591,Mushroom - Chanterelle Frozen,electronics,58.58,698,644,591,7,353,87
+592,Vector Energy Bar,clothing,822.37,662,872,592,18,737,26
+593,Pork - Caul Fat,electronics,825.14,460,452,593,28,746,93
+594,Ice Cream Bar - Oreo Cone,electronics,20.61,446,711,594,11,710,93
+595,Ice Cream - Turtles Stick Bar,electronics,64.73,1,218,595,12,369,12
+596,Beef - Diced,clothing,941.0,915,897,596,2,388,1
+597,"Mushroom - Oyster, Fresh",home goods,760.64,615,581,597,14,786,94
+598,"Vodka - Lemon, Absolut",home goods,512.22,454,477,598,24,781,98
+599,"Schnappes - Peach, Walkers",electronics,773.35,278,23,599,13,130,82
+600,Tart - Raisin And Pecan,clothing,997.77,80,794,600,14,799,86
+601,Paste - Black Olive,clothing,475.27,964,893,601,25,662,13
+602,Coconut - Whole,electronics,742.85,658,369,602,13,996,67
+603,Milk - Chocolate 500ml,clothing,803.42,769,475,603,2,209,77
+604,Shiro Miso,electronics,952.11,161,692,604,2,845,46
+605,Kirsch - Schloss,clothing,989.26,467,457,605,23,808,77
+606,"Tomatoes - Plum, Canned",home goods,8.71,162,765,606,24,643,20
+607,Ice Cream - Vanilla,clothing,763.13,615,559,607,6,332,56
+608,Rice - Long Grain,clothing,603.82,96,931,608,29,561,90
+609,Chicken - Base,clothing,847.06,47,398,609,18,313,9
+610,Wine - Carmenere Casillero Del,electronics,305.24,677,244,610,30,606,98
+611,Muffin - Zero Transfat,clothing,347.53,454,638,611,23,39,32
+612,Bagel - Plain,home goods,606.42,716,920,612,29,811,93
+613,Beef - Top Sirloin - Aaa,clothing,49.23,828,63,613,22,22,76
+614,Shrimp - 31/40,clothing,591.96,124,322,614,4,84,16
+615,Milk - Chocolate 250 Ml,home goods,395.38,127,96,615,5,908,49
+616,"Quail - Whole, Bone - In",clothing,565.75,621,129,616,8,940,14
+617,Muffin - Blueberry Individual,electronics,42.54,683,795,617,2,991,42
+618,Marjoram - Fresh,electronics,814.15,836,168,618,13,525,79
+619,Wine - Sake,home goods,460.52,505,611,619,17,960,67
+620,Tomato - Peeled Italian Canned,home goods,991.61,903,753,620,25,490,43
+621,Sauce - Soy Low Sodium - 3.87l,clothing,309.13,296,571,621,6,193,65
+622,"Cheese - Mozzarella, Shredded",clothing,754.67,962,731,622,13,544,82
+623,Ham - Virginia,home goods,782.56,925,0,623,3,419,10
+624,Lotus Rootlets - Canned,home goods,742.92,922,859,624,29,926,18
+625,"Nestea - Ice Tea, Diet",home goods,367.82,157,95,625,19,564,71
+626,Cheese - Swiss,home goods,386.32,525,757,626,22,665,48
+627,Bread - Bistro Sour,home goods,739.07,69,858,627,5,337,86
+628,Island Oasis - Wildberry,home goods,932.9,267,69,628,13,535,12
+629,Vinegar - Sherry,clothing,907.68,972,429,629,15,706,96
+630,Truffle - Whole Black Peeled,home goods,93.74,442,540,630,25,450,72
+631,Chicken - Leg / Back Attach,home goods,565.64,360,380,631,6,67,26
+632,"Tomatoes - Vine Ripe, Yellow",electronics,193.92,889,89,632,28,485,22
+633,Wine - Prosecco Valdobienne,clothing,79.81,535,917,633,2,908,41
+634,Scallop - St. Jaques,electronics,929.43,657,120,634,1,275,42
+635,"Tabasco Sauce, 2 Oz",home goods,848.33,103,901,635,9,863,8
+636,"Napkin - Beverge, White 2 - Ply",clothing,226.96,893,512,636,23,689,4
+637,Creme De Banane - Marie,home goods,216.58,139,384,637,2,187,59
+638,Eggroll,home goods,178.53,897,389,638,4,112,42
+639,Herb Du Provence - Primerba,electronics,327.61,760,250,639,10,937,86
+640,"Cup - 3.5oz, Foam",electronics,636.52,98,449,640,10,825,93
+641,Pasta - Cheese / Spinach Bauletti,clothing,691.21,915,165,641,19,614,10
+642,Milk - Chocolate 250 Ml,home goods,682.77,688,560,642,18,180,42
+643,"Doilies - 8, Paper",clothing,86.78,436,293,643,16,177,58
+644,"Nut - Almond, Blanched, Whole",home goods,737.6,762,29,644,19,138,37
+645,"Turkey - Breast, Smoked",electronics,76.15,400,7,645,17,66,16
+646,Vodka - Moskovskaya,clothing,464.37,570,55,646,10,957,79
+647,Cup - 8oz Coffee Perforated,electronics,852.1,586,635,647,15,652,12
+648,Potatoes - Idaho 80 Count,electronics,256.56,381,79,648,4,855,25
+649,Muffin - Mix - Bran And Maple 15l,clothing,919.94,100,117,649,28,415,40
+650,Wine - Coteaux Du Tricastin Ac,home goods,542.64,697,652,650,8,80,96
+651,Oysters - Smoked,electronics,298.31,947,554,651,17,585,71
+652,Wine - Jackson Triggs Okonagan,home goods,244.81,955,351,652,26,743,61
+653,Steel Wool,clothing,401.94,623,253,653,21,793,51
+654,Bacon Strip Precooked,clothing,968.41,204,480,654,16,618,37
+655,Potatoes - Idaho 80 Count,electronics,597.82,36,262,655,8,790,84
+656,Carbonated Water - Wildberry,electronics,72.15,379,823,656,15,2,90
+657,Schnappes Peppermint - Walker,clothing,910.82,284,826,657,17,826,47
+658,Mushroom - Portebello,electronics,570.22,446,458,658,11,930,29
+659,Appetizer - Smoked Salmon / Dill,home goods,238.69,391,799,659,14,978,17
+660,Quail - Jumbo,clothing,392.62,228,440,660,3,451,65
+661,Cilantro / Coriander - Fresh,home goods,863.33,418,819,661,8,864,94
+662,Cake - French Pear Tart,clothing,812.97,685,64,662,16,790,96
+663,Tomatoes - Roma,clothing,107.43,652,243,663,20,486,32
+664,"Pasta - Bauletti, Chicken White",electronics,732.25,860,477,664,28,337,41
+665,Squash - Acorn,clothing,535.92,87,684,665,13,668,36
+666,Curry Paste - Green Masala,electronics,772.44,118,474,666,23,944,6
+667,Kellogs Special K Cereal,home goods,500.65,532,528,667,1,998,27
+668,Turkey - Oven Roast Breast,electronics,504.03,117,789,668,4,456,90
+669,Hold Up Tool Storage Rack,clothing,837.55,939,688,669,5,448,92
+670,Pastry - Raisin Muffin - Mini,home goods,822.91,455,689,670,14,416,40
+671,Milk - Chocolate 250 Ml,clothing,302.54,930,961,671,1,970,43
+672,Soup Campbells Beef With Veg,clothing,959.34,183,59,672,14,650,33
+673,Puff Pastry - Sheets,home goods,146.37,426,554,673,18,634,19
+674,Lamb Rack - Ontario,clothing,256.21,12,895,674,23,786,79
+675,Melon - Honey Dew,home goods,907.77,463,811,675,30,397,100
+676,Ecolab Digiclean Mild Fm,home goods,596.19,998,913,676,29,682,23
+677,Pork - Smoked Back Bacon,clothing,996.25,528,949,677,4,774,52
+678,Towel - Roll White,home goods,628.67,253,340,678,24,85,17
+679,Rice - 7 Grain Blend,home goods,147.42,737,235,679,20,363,64
+680,Latex Rubber Gloves Size 9,clothing,894.58,991,480,680,29,922,73
+681,Glycerine,electronics,848.54,418,572,681,30,859,87
+682,"Oregano - Dry, Rubbed",clothing,308.17,832,608,682,28,656,77
+683,Tarragon - Fresh,home goods,528.22,747,197,683,6,976,45
+684,External Supplier,electronics,559.44,621,960,684,20,106,65
+685,V8 Splash Strawberry Kiwi,clothing,4.21,7,554,685,10,546,19
+686,Beef Ground Medium,clothing,158.44,247,635,686,6,646,57
+687,Pastry - Chocolate Marble Tea,home goods,419.52,102,273,687,9,996,81
+688,Oil - Pumpkinseed,clothing,844.83,134,909,688,14,980,43
+689,Steel Wool S.o.s,clothing,909.42,351,880,689,9,496,21
+690,Radish - Pickled,electronics,657.55,438,611,690,3,182,24
+691,Wine - Delicato Merlot,home goods,398.27,884,262,691,12,413,10
+692,Mace Ground,electronics,280.99,966,632,692,7,950,31
+693,Ocean Spray - Ruby Red,home goods,121.01,913,680,693,9,869,44
+694,Wine - Remy Pannier Rose,home goods,916.67,636,830,694,25,108,69
+695,Quinoa,home goods,495.11,394,653,695,8,536,4
+696,Pineapple - Golden,electronics,470.31,532,187,696,8,911,81
+697,Chocolate Bar - Reese Pieces,electronics,86.31,942,623,697,27,636,38
+698,"Bread - Rolls, Rye",home goods,551.68,309,205,698,6,59,44
+699,Island Oasis - Wildberry,home goods,497.72,967,605,699,20,444,27
+700,"Pork - Back, Short Cut, Boneless",clothing,380.83,23,951,700,21,868,98
+701,Dried Figs,clothing,242.84,56,997,701,13,870,2
+702,Goat - Leg,electronics,183.55,225,743,702,27,756,79
+703,Bread - English Muffin,home goods,812.22,195,659,703,26,637,57
+704,Canadian Emmenthal,clothing,279.22,337,226,704,30,71,95
+705,Bread - White Mini Epi,electronics,534.15,233,657,705,16,307,48
+706,"Wine - Red, Colio Cabernet",home goods,779.09,292,793,706,5,475,68
+707,"Soup - Clam Chowder, Dry Mix",electronics,356.67,971,951,707,30,871,35
+708,"Pasta - Lasagna Noodle, Frozen",electronics,375.96,340,890,708,27,650,82
+709,Lotus Root,electronics,22.53,543,876,709,25,175,6
+710,"Pepper - Black, Crushed",electronics,557.84,923,137,710,24,172,82
+711,Petit Baguette,clothing,588.97,234,318,711,1,67,83
+712,Beef - Texas Style Burger,electronics,70.27,569,639,712,3,691,4
+713,"Pasta - Detalini, White, Fresh",electronics,603.87,812,922,713,13,311,82
+714,V8 Pet,home goods,981.54,617,107,714,13,804,64
+715,Ginger - Crystalized,home goods,268.66,507,487,715,9,366,36
+716,Bay Leaf,electronics,405.85,506,581,716,4,34,69
+717,Gelatine Powder,electronics,621.62,623,292,717,3,541,28
+718,Wonton Wrappers,electronics,985.68,99,130,718,20,431,5
+719,Cheese - Marble,home goods,726.53,72,335,719,10,965,37
+720,Calypso - Pineapple Passion,clothing,502.16,490,813,720,28,453,69
+721,Wine - Rioja Campo Viejo,electronics,265.47,125,225,721,6,69,31
+722,"Red Snapper - Fillet, Skin On",clothing,71.75,976,151,722,16,127,99
+723,Pie Pecan,electronics,122.98,668,182,723,30,846,53
+724,Beef - Texas Style Burger,home goods,628.91,69,204,724,18,695,8
+725,"Olives - Black, Pitted",home goods,972.52,776,256,725,1,515,83
+726,"Chocolate - Semi Sweet, Calets",electronics,66.22,47,642,726,23,809,88
+727,Sugar - Monocystal / Rock,clothing,41.69,436,905,727,24,885,51
+728,"Beef - Tenderlion, Center Cut",clothing,529.25,664,667,728,22,292,30
+729,Wine - Fino Tio Pepe Gonzalez,electronics,251.14,369,610,729,8,293,83
+730,"Pesto - Primerba, Paste",clothing,746.72,756,462,730,2,364,7
+731,"Mushroom - Shitake, Dry",clothing,668.66,250,38,731,18,534,11
+732,Cookies Oatmeal Raisin,clothing,906.84,725,199,732,2,969,13
+733,Island Oasis - Strawberry,clothing,432.62,527,150,733,12,346,38
+734,Beef Striploin Aaa,electronics,516.65,998,696,734,16,587,34
+735,Gherkin - Sour,electronics,815.47,284,984,735,3,558,37
+736,Pork - Sausage Casing,home goods,339.86,411,144,736,20,174,10
+737,Coffee - 10oz Cup 92961,electronics,319.44,842,447,737,25,272,86
+738,Sobe - Cranberry Grapefruit,home goods,448.62,47,816,738,19,358,53
+739,"Oil - Food, Lacquer Spray",electronics,223.8,286,812,739,17,297,9
+740,Thyme - Fresh,clothing,803.85,912,994,740,6,748,77
+741,Coffee Swiss Choc Almond,electronics,257.82,586,255,741,26,692,51
+742,Wine - Gewurztraminer Pierre,electronics,437.06,825,273,742,29,954,93
+743,Carbonated Water - Blackberry,electronics,355.24,490,755,743,8,227,94
+744,Sauce - Demi Glace,clothing,722.46,785,568,744,4,643,47
+745,Strawberries,clothing,336.19,695,939,745,18,652,48
+746,Table Cloth 53x69 White,clothing,207.1,416,296,746,9,103,20
+747,Cheese - Ricotta,clothing,727.6,939,790,747,26,723,60
+748,Extract - Almond,home goods,858.92,957,984,748,3,503,64
+749,Ecolab Digiclean Mild Fm,electronics,946.38,526,428,749,1,423,35
+750,"Juice - Clam, 46 Oz",clothing,32.64,795,203,750,15,393,11
+751,"Beans - Black Bean, Preserved",electronics,374.09,710,262,751,12,939,84
+752,Flower - Leather Leaf Fern,home goods,688.28,467,887,752,25,735,11
+753,Beef Ground Medium,electronics,838.25,407,908,753,22,540,60
+754,"Lettuce - Romaine, Heart",electronics,306.98,187,438,754,21,508,2
+755,Fondant - Icing,electronics,683.65,573,358,755,29,162,23
+756,Carrots - Mini Red Organic,clothing,487.18,475,946,756,16,438,17
+757,Carbonated Water - White Grape,clothing,725.82,278,243,757,21,65,7
+758,Sloe Gin - Mcguinness,electronics,666.15,115,333,758,18,578,95
+759,Wine - Touraine Azay - Le - Rideau,clothing,814.75,559,289,759,12,375,66
+760,Gatorade - Orange,home goods,663.39,999,301,760,8,456,32
+761,Macaroons - Two Bite Choc,electronics,112.7,680,644,761,23,893,98
+762,Beer - Sleemans Cream Ale,electronics,471.68,582,214,762,9,612,55
+763,Clam - Cherrystone,home goods,987.79,17,936,763,21,942,89
+764,"Appetizer - Mini Egg Roll, Shrimp",clothing,618.56,704,702,764,3,808,67
+765,Syrup - Monin - Passion Fruit,home goods,907.01,378,472,765,21,44,28
+766,"Juice - Clamato, 341 Ml",electronics,821.88,345,613,766,26,392,51
+767,Apple - Royal Gala,clothing,75.36,379,173,767,15,979,44
+768,Vinegar - White,clothing,55.91,868,514,768,20,844,16
+769,Banana - Green,electronics,446.75,767,870,769,4,71,10
+770,Bagelers - Cinn / Brown Sugar,electronics,411.41,940,212,770,14,228,14
+771,Juice - Ocean Spray Kiwi,electronics,568.64,323,898,771,23,431,9
+772,Onions - Red Pearl,clothing,87.12,555,357,772,10,213,21
+773,Soup - Campbells Mushroom,home goods,44.93,506,296,773,26,729,65
+774,Arrowroot,electronics,376.27,28,783,774,27,506,45
+775,Muffin Mix - Oatmeal,home goods,36.27,748,971,775,5,42,37
+776,Sauce - Mint,electronics,122.08,307,797,776,8,969,34
+777,Soup - Campbells Broccoli,clothing,929.72,47,246,777,5,175,77
+778,Pomegranates,clothing,650.22,733,113,778,15,804,82
+779,Veal - Insides Provini,clothing,589.1,716,532,779,16,180,65
+780,Water - Spring Water 500ml,home goods,637.64,342,228,780,7,485,29
+781,Ecolab Silver Fusion,electronics,72.4,2,73,781,21,940,52
+782,Bread - Frozen Basket Variety,electronics,455.83,615,198,782,8,389,3
+783,Chocolate - Milk,home goods,250.58,297,776,783,5,617,91
+784,"Soup - Knorr, Chicken Gumbo",home goods,960.72,964,781,784,10,137,42
+785,Snapple Raspberry Tea,clothing,917.15,676,528,785,22,898,12
+786,Mousse - Mango,home goods,675.18,992,237,786,22,159,83
+787,Mushroom - White Button,home goods,376.22,618,158,787,27,445,36
+788,Orange - Tangerine,electronics,156.45,496,637,788,25,93,30
+789,Sage - Rubbed,clothing,490.77,151,254,789,19,33,23
+790,Honey - Liquid,clothing,29.99,205,82,790,25,14,60
+791,Pork Casing,electronics,414.18,996,931,791,1,686,33
+792,Milk Powder,electronics,960.21,888,661,792,12,473,17
+793,Jello - Assorted,clothing,575.93,749,341,793,4,157,77
+794,Miso - Soy Bean Paste,electronics,712.0,875,346,794,22,18,7
+795,Kellogs Cereal In A Cup,home goods,70.04,722,505,795,1,288,81
+796,Chocolate Bar - Coffee Crisp,clothing,710.23,326,106,796,13,76,47
+797,Ecolab - Mikroklene 4/4 L,home goods,823.84,236,885,797,30,920,4
+798,Cloves - Whole,clothing,876.06,316,713,798,14,91,52
+799,"Soup - Campbells, Lentil",home goods,717.54,813,261,799,17,42,71
+800,Scallops - 10/20,clothing,239.04,406,248,800,4,487,44
+801,Plate Foam Laminated 9in Blk,clothing,689.9,554,199,801,15,256,28
+802,"Juice - Tomato, 48 Oz",home goods,542.96,147,351,802,9,775,27
+803,Tea - Green,clothing,930.37,447,112,803,21,904,41
+804,Muffin Hinge Container 6,clothing,278.42,467,339,804,14,145,97
+805,"Ice - Clear, 300 Lb For Carving",electronics,599.96,344,850,805,25,754,25
+806,Bread Ww Cluster,home goods,426.34,107,170,806,12,785,96
+807,Tomato - Plum With Basil,clothing,962.9,307,959,807,15,850,91
+808,Sword Pick Asst,electronics,655.01,164,404,808,15,668,65
+809,Egg Patty Fried,electronics,36.85,70,913,809,15,389,70
+810,"Red Snapper - Fresh, Whole",electronics,888.5,246,408,810,9,982,32
+811,Beer - Tetleys,electronics,948.39,22,577,811,11,971,38
+812,"Chicken - Base, Ultimate",clothing,281.12,122,347,812,11,952,16
+813,"Artichokes - Knobless, White",electronics,830.41,163,422,813,8,154,16
+814,Dasheen,electronics,224.94,986,162,814,23,949,95
+815,Coffee Caramel Biscotti,clothing,595.91,515,908,815,18,633,39
+816,"Octopus - Baby, Cleaned",home goods,641.35,293,251,816,20,983,18
+817,"Zucchini - Mini, Green",electronics,598.65,197,437,817,12,18,36
+818,Bagel - 12 Grain Preslice,electronics,705.36,984,882,818,19,820,53
+819,Sea Bass - Fillets,electronics,250.28,16,404,819,9,697,71
+820,"Sauce - Soya, Light",electronics,306.35,292,209,820,30,219,90
+821,"Soup - Campbells, Chix Gumbo",home goods,48.98,312,938,821,29,400,62
+822,Tuna - Bluefin,electronics,343.01,903,274,822,4,786,66
+823,"Vermouth - White, Cinzano",electronics,478.19,142,402,823,21,872,73
+824,Sprouts - China Rose,electronics,274.31,287,461,824,12,505,71
+825,Beer - Creemore,home goods,77.6,326,878,825,17,375,95
+826,"Yogurt - Blueberry, 175 Gr",electronics,414.15,773,888,826,9,92,51
+827,Beans - Soya Bean,electronics,640.62,23,558,827,18,148,7
+828,Eggroll,electronics,712.01,152,127,828,9,969,4
+829,Mustard Prepared,home goods,25.52,622,669,829,13,329,96
+830,"Soup - Campbells, Classic Chix",electronics,601.44,863,29,830,1,345,61
+831,"Pork - Bacon, Sliced",electronics,323.97,619,201,831,15,573,55
+832,Lid - 0090 Clear,electronics,774.83,788,304,832,25,171,75
+833,"Tomatoes - Diced, Canned",electronics,772.91,774,348,833,8,499,54
+834,"Seedlings - Mix, Organic",clothing,937.7,187,372,834,17,128,98
+835,Wine - Pinot Grigio Collavini,electronics,958.39,34,401,835,16,681,12
+836,Cumin - Whole,electronics,329.86,264,482,836,30,880,7
+837,Pastry - Banana Muffin - Mini,home goods,543.73,276,895,837,8,829,88
+838,Pie Shell - 9,electronics,446.68,985,176,838,17,578,41
+839,Venison - Striploin,home goods,285.92,134,647,839,30,320,63
+840,Wine - Zinfandel Rosenblum,clothing,583.59,831,636,840,30,560,84
+841,Almonds Ground Blanched,home goods,829.74,653,542,841,9,245,8
+842,Flour - Rye,electronics,454.57,222,193,842,28,64,53
+843,Praline Paste,electronics,564.34,17,265,843,8,407,88
+844,Rice Paper,home goods,148.55,462,171,844,17,387,50
+845,Muffin - Mix - Mango Sour Cherry,home goods,282.74,795,159,845,6,989,32
+846,Mousse - Banana Chocolate,home goods,981.6,915,143,846,6,216,95
+847,Wine - Penfolds Koonuga Hill,clothing,691.14,22,833,847,4,332,47
+848,Pastry - Choclate Baked,electronics,429.42,118,984,848,12,76,20
+849,Bread - Italian Corn Meal Poly,home goods,593.4,153,60,849,29,941,3
+850,Tomatoes Tear Drop Yellow,home goods,103.27,568,681,850,12,924,7
+851,Venison - Striploin,electronics,491.21,92,724,851,30,1000,54
+852,Sauce - Alfredo,electronics,762.05,242,107,852,9,70,98
+853,Swiss Chard,electronics,639.04,871,473,853,13,66,15
+854,Wine - Vidal Icewine Magnotta,clothing,432.45,818,466,854,16,430,98
+855,"Pepper - White, Ground",home goods,195.17,791,568,855,22,548,38
+856,Wine - Magnotta - Pinot Gris Sr,clothing,405.9,306,495,856,21,2,75
+857,Cake Slab,home goods,153.4,765,86,857,15,70,8
+858,"Tomatoes - Vine Ripe, Red",clothing,637.06,10,527,858,30,699,48
+859,Lid Coffee Cup 8oz Blk,electronics,164.76,456,443,859,11,976,68
+860,Nougat - Paste / Cream,electronics,539.84,513,835,860,3,70,92
+861,Sprouts - Bean,electronics,977.28,572,56,861,5,467,44
+862,Eggplant - Regular,clothing,932.22,102,898,862,20,850,18
+863,"Beef - Bones, Cut - Up",clothing,810.05,134,12,863,14,431,68
+864,Squid - Tubes / Tenticles 10/20,home goods,901.09,49,962,864,13,374,25
+865,Celery Root,home goods,182.77,571,829,865,20,597,86
+866,Pork - Hock And Feet Attached,home goods,470.32,59,898,866,3,589,57
+867,Taro Root,electronics,183.64,57,705,867,17,224,5
+868,Cabbage - Green,electronics,45.54,867,475,868,24,826,17
+869,"Crab - Dungeness, Whole",clothing,23.1,238,594,869,15,69,81
+870,Juice Peach Nectar,home goods,777.23,325,363,870,9,334,20
+871,Wine - Wyndham Estate Bin 777,clothing,849.87,927,924,871,22,555,74
+872,"Nut - Peanut, Roasted",electronics,300.71,340,380,872,4,516,67
+873,Salami - Genova,home goods,907.22,353,145,873,6,781,93
+874,Milk - 2%,home goods,720.84,715,247,874,10,365,15
+875,Trout Rainbow Whole,home goods,118.64,955,557,875,4,697,54
+876,Smoked Paprika,clothing,327.2,583,275,876,19,104,8
+877,Veal - Ground,home goods,813.9,371,12,877,22,96,60
+878,Wine - Baron De Rothschild,home goods,23.58,316,465,878,8,480,68
+879,Pork Salted Bellies,home goods,433.38,546,669,879,5,746,35
+880,Lettuce Romaine Chopped,clothing,668.36,743,213,880,25,608,31
+881,Peach - Halves,clothing,34.04,358,500,881,15,10,69
+882,Foil - 4oz Custard Cup,electronics,476.97,47,187,882,26,172,8
+883,Basil - Thai,home goods,990.84,366,880,883,10,755,65
+884,Muffin Carrot - Individual,clothing,692.62,694,882,884,28,181,6
+885,Cheese - Cambozola,clothing,236.34,84,394,885,10,941,35
+886,Tuna - Yellowfin,electronics,65.07,207,183,886,2,912,50
+887,Peach - Halves,clothing,816.65,724,353,887,14,301,55
+888,Chocolate Bar - Coffee Crisp,clothing,656.08,563,773,888,9,500,96
+889,Extract - Almond,clothing,585.29,765,828,889,12,945,68
+890,Turkey - Oven Roast Breast,home goods,834.7,849,404,890,10,973,15
+891,Curry Paste - Green Masala,clothing,490.4,234,543,891,12,111,17
+892,Foil - Round Foil,home goods,332.62,659,807,892,12,40,80
+893,Appetizer - Southwestern,electronics,41.9,125,928,893,25,756,94
+894,Capers - Ox Eye Daisy,electronics,524.75,959,617,894,4,195,38
+895,Squash - Guords,electronics,341.33,453,771,895,23,377,73
+896,"Oil - Truffle, Black",electronics,846.9,95,798,896,18,235,78
+897,Crab - Soft Shell,electronics,783.76,740,218,897,17,335,99
+898,"Pork - Sausage, Medium",home goods,350.99,873,462,898,3,61,75
+899,Tomatillo,home goods,485.81,348,723,899,12,952,11
+900,"Turkey - Breast, Bone - In",electronics,387.62,411,141,900,19,479,2
+901,"Vermacelli - Sprinkles, Assorted",clothing,313.34,104,663,901,6,749,76
+902,Mushroom - Crimini,clothing,474.64,97,164,902,20,343,80
+903,Beer - Maudite,electronics,176.13,21,220,903,10,825,46
+904,Bay Leaf,electronics,48.87,714,986,904,21,52,96
+905,Flower - Potmums,electronics,756.14,490,182,905,18,536,77
+906,"Beans - Turtle, Black, Dry",home goods,33.68,762,908,906,8,680,62
+907,Beets - Golden,home goods,63.4,824,214,907,2,271,27
+908,Rice Wine - Aji Mirin,clothing,495.74,389,406,908,2,645,72
+909,Clam Nectar,clothing,663.58,70,650,909,12,367,100
+910,Salami - Genova,home goods,54.48,69,925,910,2,305,98
+911,Pepper - Yellow Bell,home goods,2.39,164,36,911,20,425,10
+912,Toothpick Frilled,electronics,453.48,208,622,912,8,188,36
+913,Bread - Pain Au Liat X12,home goods,212.78,984,632,913,13,777,27
+914,Langers - Mango Nectar,electronics,258.68,358,326,914,10,607,77
+915,Miso - Soy Bean Paste,electronics,619.27,204,312,915,14,128,10
+916,Apricots - Dried,home goods,443.41,195,218,916,18,991,84
+917,"Sugar - Brown, Individual",home goods,406.73,348,146,917,16,345,62
+918,Onions - Pearl,electronics,283.49,139,768,918,1,760,63
+919,Roe - White Fish,clothing,676.87,992,103,919,2,5,13
+920,Flour - Bread,electronics,704.52,663,724,920,2,388,31
+921,"Placemat - Scallop, White",home goods,625.99,162,540,921,20,716,82
+922,Nut - Pumpkin Seeds,electronics,897.5,495,650,922,13,698,59
+923,Eel - Smoked,electronics,593.8,409,402,923,22,947,86
+924,Iced Tea Concentrate,clothing,475.8,440,851,924,3,917,71
+925,Energy Drink - Franks Pineapple,home goods,585.95,620,605,925,5,903,65
+926,Sauce - Sesame Thai Dressing,electronics,430.15,792,463,926,17,148,99
+927,Ocean Spray - Kiwi Strawberry,home goods,122.5,775,423,927,1,50,22
+928,Graham Cracker Mix,home goods,485.36,972,861,928,27,610,33
+929,Wine - Magnotta - Cab Franc,clothing,46.04,999,263,929,23,446,90
+930,Flour - Chickpea,home goods,563.5,862,765,930,30,348,94
+931,Crackers - Soda / Saltins,home goods,529.51,858,570,931,23,817,21
+932,Sambuca Cream,electronics,207.36,78,993,932,24,5,89
+933,Oil - Grapeseed Oil,home goods,797.45,217,643,933,2,580,37
+934,Yeast Dry - Fleischman,electronics,346.92,132,165,934,8,877,84
+935,Wine - Prem Select Charddonany,clothing,995.83,758,420,935,29,149,56
+936,Grouper - Fresh,home goods,573.93,878,189,936,29,330,66
+937,Beef - Ground Lean Fresh,electronics,732.99,157,404,937,21,190,80
+938,Pork Salted Bellies,clothing,9.36,8,946,938,24,714,9
+939,"Soup - Campbells, Cream Of",clothing,477.17,446,633,939,2,291,93
+940,Basil - Thai,clothing,703.81,120,564,940,6,830,12
+941,Bread Base - Toscano,clothing,79.12,822,469,941,9,5,27
+942,Oven Mitts 17 Inch,electronics,782.63,688,260,942,23,394,62
+943,Red Currants,clothing,594.43,585,181,943,24,304,58
+944,Water - San Pellegrino,clothing,748.37,163,686,944,7,921,24
+945,Wine - Balbach Riverside,clothing,170.38,806,158,945,19,996,79
+946,Sea Bass - Whole,electronics,894.89,279,11,946,27,285,99
+947,Cake - Mini Cheesecake,clothing,981.05,937,994,947,2,344,12
+948,Trout - Smoked,electronics,524.39,78,953,948,23,50,24
+949,Chicken - Base,electronics,24.31,812,888,949,3,250,46
+950,"Seedlings - Buckwheat, Organic",electronics,905.27,660,970,950,28,36,57
+951,Myers Planters Punch,electronics,594.72,185,880,951,15,162,87
+952,Chips - Doritos,home goods,536.25,659,978,952,23,781,89
+953,Rootbeer,home goods,669.36,774,829,953,12,858,66
+954,Gatorade - Orange,home goods,231.87,322,943,954,16,552,21
+955,Appetizer - Tarragon Chicken,clothing,911.11,259,581,955,2,582,85
+956,Paste - Black Olive,electronics,875.83,789,517,956,30,850,85
+957,"Vodka - Lemon, Absolut",electronics,687.86,124,552,957,10,106,46
+958,"Melon - Watermelon, Seedless",clothing,129.45,152,137,958,19,686,78
+959,Energy Drink,electronics,974.28,159,646,959,6,626,16
+960,Table Cloth 62x120 White,clothing,966.58,564,359,960,24,138,78
+961,"Mushroom - Chantrelle, Fresh",home goods,91.72,810,395,961,25,530,65
+962,Food Colouring - Green,home goods,82.01,727,171,962,9,992,36
+963,"Juice - Orange, Concentrate",home goods,152.83,715,934,963,1,584,71
+964,"Pepper - Red, Finger Hot",clothing,411.3,968,835,964,7,199,86
+965,"Wine - Bourgogne 2002, La",clothing,861.55,262,689,965,28,450,53
+966,"Wine - White, Pinot Grigio",clothing,219.76,987,320,966,27,147,64
+967,Bagels Poppyseed,electronics,648.69,73,31,967,29,816,39
+968,Garlic Powder,clothing,895.47,778,728,968,24,906,22
+969,Cheese - Marble,electronics,670.47,518,951,969,18,671,23
+970,Salt - Celery,clothing,832.69,983,788,970,4,152,5
+971,Remy Red Berry Infusion,electronics,285.3,658,38,971,12,661,5
+972,"Juice - Clamato, 341 Ml",home goods,192.05,393,397,972,13,85,4
+973,Water Chestnut - Canned,electronics,956.73,270,525,973,21,253,55
+974,"Soup - Campbells, Minestrone",home goods,619.16,568,929,974,30,176,87
+975,Shrimp - Black Tiger 8 - 12,clothing,645.88,525,224,975,16,699,56
+976,Goldschalger,electronics,406.78,248,207,976,24,963,89
+977,Sesame Seed,home goods,215.05,968,837,977,12,853,97
+978,Garbag Bags - Black,electronics,462.08,579,963,978,3,289,11
+979,Wine - Chateau Bonnet,home goods,826.86,207,126,979,8,494,14
+980,Chutney Sauce - Mango,clothing,994.03,183,157,980,4,276,1
+981,"Butter - Salted, Micro",electronics,279.21,880,791,981,1,812,11
+982,Bread - Assorted Rolls,home goods,166.19,223,290,982,20,940,87
+983,Wine - Muscadet Sur Lie,electronics,6.44,361,210,983,9,937,81
+984,Chocolate - White,home goods,621.09,626,559,984,2,582,55
+985,Octopus,home goods,103.59,923,956,985,28,780,65
+986,Mayonnaise,home goods,420.02,162,495,986,5,23,51
+987,"Mushroom - Porcini, Dry",clothing,193.47,909,242,987,9,48,83
+988,Dried Figs,electronics,340.99,501,264,988,4,727,26
+989,"Chicken - Wings, Tip Off",electronics,500.38,534,112,989,30,773,2
+990,Couscous,home goods,631.28,675,677,990,9,784,43
+991,"Beans - Navy, Dry",electronics,48.98,618,102,991,28,287,80
+992,Vegetable - Base,clothing,357.35,676,507,992,1,234,79
+993,Kippers - Smoked,electronics,894.68,948,992,993,6,381,68
+994,Broom - Angled,home goods,920.29,942,241,994,28,79,67
+995,Grapefruit - White,clothing,687.62,565,449,995,24,503,7
+996,Venison - Ground,home goods,195.88,363,21,996,10,649,18
+997,Butter Sweet,electronics,644.9,291,424,997,29,163,92
+998,Veal - Eye Of Round,clothing,364.18,158,224,998,15,137,64
+999,Tomato - Tricolor Cherry,home goods,498.09,830,624,999,5,867,3
+1000,Sauerkraut,home goods,804.14,953,230,1000,27,507,3
